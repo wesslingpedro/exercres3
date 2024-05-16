@@ -1,0 +1,14 @@
+D:\CURSO C# UDEMY\EntradaDeDados\exercres3\exercres3\bin\Debug\net8.0\exercres3.exe
+D:\CURSO C# UDEMY\EntradaDeDados\exercres3\exercres3\bin\Debug\net8.0\exercres3.deps.json
+D:\CURSO C# UDEMY\EntradaDeDados\exercres3\exercres3\bin\Debug\net8.0\exercres3.runtimeconfig.json
+D:\CURSO C# UDEMY\EntradaDeDados\exercres3\exercres3\bin\Debug\net8.0\exercres3.dll
+D:\CURSO C# UDEMY\EntradaDeDados\exercres3\exercres3\bin\Debug\net8.0\exercres3.pdb
+D:\CURSO C# UDEMY\EntradaDeDados\exercres3\exercres3\obj\Debug\net8.0\exercres3.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO C# UDEMY\EntradaDeDados\exercres3\exercres3\obj\Debug\net8.0\exercres3.AssemblyInfoInputs.cache
+D:\CURSO C# UDEMY\EntradaDeDados\exercres3\exercres3\obj\Debug\net8.0\exercres3.AssemblyInfo.cs
+D:\CURSO C# UDEMY\EntradaDeDados\exercres3\exercres3\obj\Debug\net8.0\exercres3.csproj.CoreCompileInputs.cache
+D:\CURSO C# UDEMY\EntradaDeDados\exercres3\exercres3\obj\Debug\net8.0\exercres3.dll
+D:\CURSO C# UDEMY\EntradaDeDados\exercres3\exercres3\obj\Debug\net8.0\refint\exercres3.dll
+D:\CURSO C# UDEMY\EntradaDeDados\exercres3\exercres3\obj\Debug\net8.0\exercres3.pdb
+D:\CURSO C# UDEMY\EntradaDeDados\exercres3\exercres3\obj\Debug\net8.0\exercres3.genruntimeconfig.cache
+D:\CURSO C# UDEMY\EntradaDeDados\exercres3\exercres3\obj\Debug\net8.0\ref\exercres3.dll
